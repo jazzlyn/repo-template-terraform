@@ -44,6 +44,7 @@ Short project description
 ```console
 .
 ├── .config
+├── .editorconfig
 ├── .gitignore
 ├── .pre-commit-config.yaml
 ├── README.md                       # this document

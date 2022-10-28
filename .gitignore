@@ -8,7 +8,6 @@ Thumbs.db
 # vscode-sops
 .decrypted~*.yaml
 *.agekey
-.env
 
 # Local .terraform directories
 **/.terraform/*
@@ -45,3 +44,7 @@ override.tf.json
 .terraformrc
 terraform.rc
 **/**/.terraform.lock.hcl
+
+# env files
+.envrc
+.env
