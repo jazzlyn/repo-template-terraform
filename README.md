@@ -33,7 +33,7 @@ Short project description
       </ul>
     </li>
     <li><a href="#configuration">Configuration</a></li>
-    <li><a href="#contribution">Contribution</a>
+    <li><a href="#contribution">Contribution</a></li>
     <li><a href="#known-issues">Known Issues</a></li>
   </ol>
 </details>
