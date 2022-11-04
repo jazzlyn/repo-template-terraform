@@ -43,13 +43,20 @@ Short project description
 
 ```console
 .
-├── .config
+├── .taskfiles
+│   ├── pre-commit.yaml
+│   └── terraform.yaml
 ├── .editorconfig
 ├── .gitignore
+├── .markdownlint.yaml
 ├── .pre-commit-config.yaml
-├── README.md                       # this document
-├── .taskfiles
-└── Taskfile.yaml
+├── .prettierignore
+├── .prettierrc.yaml
+├── README.md                   # this document
+├── Taskfile.yaml
+├── .terraform-docs.yaml
+├── .tflint.hcl
+└── .yamllint.config.yaml
 ```
 
 ## Code-Style
